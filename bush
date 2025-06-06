@@ -160,3 +160,5 @@ colors() {
 
     printf "\\n\\n"
 }
+
+$0
