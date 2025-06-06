@@ -12,5 +12,5 @@ Feel free to hack around with this, that's the entire point anyway. ¯\\\_(ツ)\
 Source the file and the functions will be available. To uninstall it just open another shell or close your terminal.
 
 ```sh
-source ~/path/to/bush/bush
+source ~/path/to/bush/bush-arg
 ```
