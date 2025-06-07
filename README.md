@@ -1,4 +1,4 @@
-# bush
+# bush-arg
 
 [![Build Status](https://travis-ci.org/dylanaraps/bush.svg?branch=master)](https://travis-ci.org/dylanaraps/bush)
 
