@@ -6,11 +6,4 @@ This is an experiment to see how many standard tools and functions we can re-imp
 
 Feel free to hack around with this, that's the entire point anyway. ¯\\\_(ツ)\_/¯
 
-
-## How to use this?
-
-Source the file and the functions will be available. To uninstall it just open another shell or close your terminal.
-
-```sh
-source ~/path/to/bush/bush-arg
-```
+See the [package](https://github.com/Kali-in-Batch/pkg/tree/main/packages/bush-arg) for the latest updates and information.
